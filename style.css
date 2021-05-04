@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.header{
+    height: 100vh;
+}
+
+.background-overlay{
+    background-image: url("../photo.webp");
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navbar-nav a{
+   font-weight: bold;
+   letter-spacing: 10px;
+}
+
+.jumbotron{
+    background: none!important;
+    color:yellow;
+}
